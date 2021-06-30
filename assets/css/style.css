@@ -6491,8 +6491,9 @@ button.btn-white:hover {
     background-image: linear-gradient(to right, #74c4ce 0%,#e0e2d5 82%,#74c4ce );
 }
 
-.owl-stage {
-	/*margin: 0 !important;*/
+.roadmap_inner .align {
+    text-align: left;
+    /*padding-left: 30%;*/
 }
 /*===================================*
 27. EBD CUSTOM MOOSE  
